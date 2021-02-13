@@ -1,6 +1,6 @@
 <?php
 
-namespace Francerz\Spreadsheet\Util;
+namespace Francerz\PhpSpreadsheet\Util;
 
 use Francerz\Http\Utils\Constants\MediaTypes;
 use Francerz\Http\Utils\HttpFactoryManager;
